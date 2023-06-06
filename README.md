@@ -7,7 +7,7 @@ Rules: Can only use one hand.
 
 Objectives: See how many LED lights you can light up in one minute. Try to get that victory song!
  
-Scoring System: Each LED pin will light up in order for increases of 20 clicks. You win a little song if you light up all of the neopixels.  
+Scoring System: Each LED pin will light up in order for increases of 20 clicks. Each LED lit represents 1 point. You win a little song if you get 10 points.  
 
 Inputs: Slideswitch, Left button. 
 Outputs: LEDs, Tones for each neopixel lighting up.
