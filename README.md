@@ -7,7 +7,7 @@ Rules: Can only use one hand.
 
 Objectives: See how many Neopixels you can light up in one minute. Try to get that victory song!
  
-Scoring System: Each Neopixel will light up in order for increases of 40 clicks, after the first lights up at 20 points. Each clicl represents a point. You win a little song if you get 360 points.  
+Scoring System: Each Neopixel will light up in order for increases of 40 clicks, after the first lights up at 20 points. Each click represents a point. You win a little song if you get 360 points.  
 
 Inputs: Slideswitch, Left button. 
 Outputs: LEDs, Tones for each neopixel lighting up.
